@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\bin\Debug\net6.0\Lista_Carro.exe
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\bin\Debug\net6.0\Lista_Carro.deps.json
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\bin\Debug\net6.0\Lista_Carro.runtimeconfig.json
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\bin\Debug\net6.0\Lista_Carro.dll
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\bin\Debug\net6.0\Lista_Carro.pdb
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\obj\Debug\net6.0\Lista_Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\obj\Debug\net6.0\Lista_Carro.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\obj\Debug\net6.0\Lista_Carro.AssemblyInfo.cs
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\obj\Debug\net6.0\Lista_Carro.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\obj\Debug\net6.0\Lista_Carro.dll
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\obj\Debug\net6.0\refint\Lista_Carro.dll
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\obj\Debug\net6.0\Lista_Carro.pdb
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\obj\Debug\net6.0\Lista_Carro.genruntimeconfig.cache
+C:\Users\hp\source\repos\Lista_Carro\Lista_Carro\obj\Debug\net6.0\ref\Lista_Carro.dll
